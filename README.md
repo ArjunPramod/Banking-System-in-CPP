@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Author
 
-[Arjun Pramod](https://github.com/ArjunPramod)
+- [Arjun Pramod](https://github.com/ArjunPramod)
